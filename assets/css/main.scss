@@ -41,3 +41,20 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+// === Custom overrides ===
+
+.author__avatar img {
+  border-radius: 0 !important;   // Remove circular crop
+  object-fit: cover;             // Maintain aspect ratio
+  width: 100%;                   // Responsive scaling
+  height: auto;                  // Let height adjust proportionally
+}
+// iframe {
+//   display: block;
+//   margin: 0 auto;
+//   padding: 0;
+//   overflow: hidden;
+//   height: 100vh; /* Or manually set px as above */
+//   width: 1000px; /* Adjust this as needed */
+//   border: none;
+// }
