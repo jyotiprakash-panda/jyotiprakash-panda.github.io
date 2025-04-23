@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
@@ -46,4 +46,29 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+
+
+---
+layout: single
+title: "About Me"
+permalink: /about/
+author_profile: true
+---
+
+## About
+
+Hi! I'm **Jyotiprakash Panda**, a Computer Science graduate from **Stony Brook University**, currently based in Seattle.
+
+I'm passionate about backend engineering, distributed systems, and cloud infrastructure. I’ve worked on microservices, automation tooling, and developer platforms using Java, Spring Boot, Python, Docker, and AWS.
+
+My goal is to build scalable, reliable software that solves real-world problems.
+
+---
+
+## Interests
+
+- Distributed Systems & Cloud Platforms
+- Backend Architecture & APIs
+- CI/CD Tooling & Automation
+- Open Source Collaboration
