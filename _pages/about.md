@@ -52,7 +52,7 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 ---
 layout: single
 title: "About Me"
-permalink: /about/
+permalink: /
 author_profile: true
 ---
 
